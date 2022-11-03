@@ -1,0 +1,22 @@
+.footer {
+  background: rgba(0, 0, 0, 1);
+  height: 100px;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.text-footer {
+  color: rgba(255, 255, 255, 0.7);
+  margin-top: 0;
+}
+
+.fa-brands {
+  color: rgba(0, 159, 74, 0.6);
+  height: 40px;
+  width: auto;
+  margin: 8px;
+}
+
+.fa-heart {
+  color: rgba(0, 159, 74, 0.6);
+}

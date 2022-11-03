@@ -1,0 +1,15 @@
+.banner-btn {
+  font-size: 20px;
+  padding: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.9);
+  border-radius: 16px;
+  color: rgba(255, 255, 255, 0.9)
+
+}
+
+.banner-btn:hover {
+  background-color: rgba(0, 0, 0, 0.6);
+  cursor: pointer;
+  border: 1px solid rgba(255, 255, 255, 0.7);
+  color: rgba(255, 255, 255, 0.7);
+}
